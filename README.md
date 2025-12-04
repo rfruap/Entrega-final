@@ -12,6 +12,6 @@
 - **Cédula:** 1-017-922-816  
 - **Programa:** Ingeniería de sistemas
 #
-**Link Video entrega 02 - preprocesado:** https://youtu.be/1QaR0PrggLU
+**Link Video entrega 02 - preprocesado:** https://www.youtube.com/watch?v=u4GP9KNtwYU
 #
 **Link Video entrega Final - EntrenamientoDelModelo:** https://youtu.be/ULhxNTsOu78
